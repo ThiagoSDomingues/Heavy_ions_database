@@ -1,0 +1,11 @@
+# Reference: https://www.hepdata.net/record/ins3062822. Table 2
+# cuts: 
+# eta_range: < 2.4
+# 0.3 < p_T < 3 GEV
+cent_mid val stat sys
+0.5 0.067179 0.000035 0.001411
+1.5
+3.5
+7.5
+12.5
+17.5
