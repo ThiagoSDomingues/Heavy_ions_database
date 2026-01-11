@@ -1,0 +1,9 @@
+# Reference: https://www.hepdata.net/record/ins3062822
+#cuts ?
+cent_mid val stat sys
+0.5 0.061078
+1.5 0.063094
+3.5 0.065273
+7.5 0.068006
+12.5 0.070624
+
